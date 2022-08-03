@@ -2,7 +2,7 @@
 
 Apache Airflow 2.3.3 on Docker for easy implementations
 
-# command to follow 
+# commands
 docker-compose up airflow-init <br /> 
 docker-compose up <br />
 docker ps <br />
